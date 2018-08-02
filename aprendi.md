@@ -15,4 +15,4 @@
 
 **Boas Práticas** - [eslint](https://eslint.org/), [husky](https://github.com/typicode/husky) e `npm scripts`
 
-**JS** - `eval()`: roda o código passado como função em forma de string. Ex. `eval(console.log('hey'))`
+**JS** - `eval()`: roda o código passado como função em forma de string. Ex. `eval('console.log(\'hey\')')`
