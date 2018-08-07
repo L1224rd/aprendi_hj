@@ -16,3 +16,9 @@
 **Boas Práticas** - [eslint](https://eslint.org/), [husky](https://github.com/typicode/husky) e `npm scripts`
 
 **JS** - `eval()`: roda o código passado como função em forma de string. Ex. `eval('console.log(\'hey\')')`
+
+# 03/08
+
+**GitHub** - a extensão `.md` representa arquivos de documentação Markdown
+
+**Ngrok** - Acessar localhost através de um link
