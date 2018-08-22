@@ -22,3 +22,11 @@
 **GitHub** - a extensão `.md` representa arquivos de documentação Markdown
 
 **Ngrok** - Acessar localhost através de um link
+
+# 22/08
+
+**Debugging in Chrome** - $ `node --inspect-brk` then access debug tab in chrome
+
+**Lodash** - Easy way of working with arrays, numbers, objects, strings, etc.
+
+**Batch at Ubuntu startup** - Search for Startup Aplications
