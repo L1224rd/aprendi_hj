@@ -25,7 +25,7 @@
 
 # 22/08
 
-**Debugging in Chrome** - $ `node --inspect-brk` then access debug tab in chrome
+**Debugging in Chrome** - $ `node --inspect-brk` then access chrome://inspect/#devices
 
 **Lodash** - Easy way of working with arrays, numbers, objects, strings, etc.
 
