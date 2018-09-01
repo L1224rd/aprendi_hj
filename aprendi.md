@@ -30,3 +30,7 @@
 **Lodash** - Easy way of working with arrays, numbers, objects, strings, etc.
 
 **Batch at Ubuntu startup** - Search for Startup Aplications
+
+# 01/09
+
+**not function jquery** - Excludes passed jquery selector
