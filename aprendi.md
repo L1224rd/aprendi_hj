@@ -34,3 +34,5 @@
 # 01/09
 
 **not function jquery** - Excludes passed jquery selector
+
+**jquery delegated event handlers** - To bind events to elements created by jquery
