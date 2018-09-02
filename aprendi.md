@@ -40,3 +40,5 @@
 # 02/09
 
 **JSON Viewer** - Maravilha!!! Prettifies json raw data at the browser [JSON Viwer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=pt-BR)
+
+**JSON at console** - `JSON.stringify(object, undefined, 2)` to see it pretty at the console
