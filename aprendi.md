@@ -36,3 +36,7 @@
 **not function jquery** - Excludes passed jquery selector
 
 **jquery delegated event handlers** - To bind events to elements created by jquery
+
+# 02/09
+
+**JSON Viewer** - Maravilha!!! Prettifies json raw data at the browser [JSON Viwer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=pt-BR)
