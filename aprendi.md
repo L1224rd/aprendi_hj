@@ -44,3 +44,8 @@
 **JSON at console** - `JSON.stringify(object, undefined, 2)` to see it pretty at the console
 
 **encodeURIComponent** - to format stings into valid URL format. (%20, etc)
+
+# 03/09
+
+**GitLens** - See who coded each line
+
