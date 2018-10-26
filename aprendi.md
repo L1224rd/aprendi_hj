@@ -53,3 +53,7 @@
 
 **Annyang** - [JS SpeechRecognition](https://www.talater.com/annyang/)
 
+# 26/10
+
+**Node duplicate request** - If 2 requests are being sent to `*` route, it's because of `/favicon`
+
