@@ -57,3 +57,7 @@
 
 **Node duplicate request** - If 2 requests are being sent to `*` route, it's because of `/favicon`
 
+# 27/10
+
+**Delete all branches but master** - `git branch | grep -v "master" | xargs git branch -D`
+
