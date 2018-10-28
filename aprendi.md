@@ -61,3 +61,7 @@
 
 **Delete all branches but master** - `git branch | grep -v "master" | xargs git branch -D`
 
+# 28/10
+
+**Permission denied even with sudo** - `sudo npm install --unsafe-perm=true --allow-root`
+
