@@ -65,3 +65,7 @@
 
 **Permission denied even with sudo** - `sudo npm install --unsafe-perm=true --allow-root`
 
+# 06/12
+
+**HTML element.style** - Only returns the values set by the js, for the css see getComputedStyle()
+
